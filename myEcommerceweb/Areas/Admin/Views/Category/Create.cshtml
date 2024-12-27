@@ -1,0 +1,96 @@
+﻿@model Category
+
+@{
+    ViewBag.PageTitle = "Categoty Management";
+    ViewBag.CardTitle = "Create Category ";
+   // Layout = "~/Views/Shared/_Dashboard.cshtml";
+    //  after add these ( Layout = "_Dashboard";) in _ViewStart  , i will be not need to add these(Layout = "~/Views/Shared/_Dashboard.cshtml";) in all admin views
+
+
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description"></label>
+               @*  i create this textarea by using Tiny MCE V6 and i implement it (<script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>)
+                in the dashboard to make me can use TinyMCE with any textArea that i want to use it with  *@
+                <textarea asp-for="Description" class="form-control" id="mytextarea"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+
+            </div>
+            
+            <div class="form-group">
+                
+                <button type="submit" class="btn btn-primary">Create</button>
+                <a asp-action="Index" asp-controller="Category" class="btn btn-warning">Back To Index</a>
+
+
+            </div>
+            
+
+
+        </form>
+    </div>
+</div>
+
+
+@**@
+<!-- this to create the client side validation error -->
+@section Scripts {
+    @*
+        this
+    <partial name="_ValidationScriptsPartial"/>
+    *@
+    @*or this*@
+    @{
+         await Html.RenderPartialAsync("_ValidationScriptsPartial");
+     }
+
+    @*  any textarea i want to use it with MCE i must add this in the html file that contains the textarea 
+         and this <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+        in this project i implement it in the _Dashboard to can use MCE with Any Textarea in the project 
+        by add the following statement only in the html  *@
+   @*  <script>
+        tinymce.init({
+          selector: '#mytextarea'
+        });
+    </script> *@ 
+   @*  i replace it to following after add no-api-key=vvznev3872zsnqt6hovhh6301q0v42h5ltqvxpe6thbc39qx in url *@
+    <!-- Place the first <script> tag in your HTML's <head> -->
+    @* <script src="https://cdn.tiny.cloud/1/vvznev3872zsnqt6hovhh6301q0v42h5ltqvxpe6thbc39qx/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+ *@
+    <!-- Place the following <script> and <textarea> tags your HTML's <body> -->
+    <script>
+        tinymce.init({
+          selector: '#mytextarea',
+          plugins: [
+            // Core editing features
+            'anchor', 'autolink', 'charmap', 'codesample', 'emoticons', 'image', 'link', 'lists', 'media', 'searchreplace', 'table', 'visualblocks', 'wordcount',
+            // Your account includes a free trial of TinyMCE premium features
+            // Try the most popular premium features until Jan 3, 2025:
+            'checklist', 'mediaembed', 'casechange', 'export', 'formatpainter', 'pageembed', 'a11ychecker', 'tinymcespellchecker', 'permanentpen', 'powerpaste', 'advtable', 'advcode', 'editimage', 'advtemplate', 'ai', 'mentions', 'tinycomments', 'tableofcontents', 'footnotes', 'mergetags', 'autocorrect', 'typography', 'inlinecss', 'markdown','importword', 'exportword', 'exportpdf'
+          ],
+          toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+          tinycomments_mode: 'embedded',
+          tinycomments_author: 'Author name',
+          mergetags_list: [
+            { value: 'First.Name', title: 'First Name' },
+            { value: 'Email', title: 'Email' },
+          ],
+          ai_request: (request, respondWith) => respondWith.string(() => Promise.reject('See docs to implement AI Assistant')),
+        });
+    </script>
+    
+    
+
+}

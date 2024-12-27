@@ -1,0 +1,1553 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\myEcommerceweb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\myEcommerceweb.7mpcve2upr.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\06c94b9c-2b9f-4367-9c18-587f6aa5c816.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\06c94b9c-2b9f-4367-9c18-587f6aa5c816.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\0f5a933e-e02e-4031-aba4-0dcd4d6303a4.png",
+      "PackagePath": "staticwebassets\\images\\Products\\0f5a933e-e02e-4031-aba4-0dcd4d6303a4.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\24ab61cc-f08a-49a1-8c15-8ab36b328899.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\24ab61cc-f08a-49a1-8c15-8ab36b328899.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\5abd052f-7cb9-45b9-a99e-13fd62416f93.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\5abd052f-7cb9-45b9-a99e-13fd62416f93.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\6531f030-7770-4c4d-88ef-d009ff1c1232.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\6531f030-7770-4c4d-88ef-d009ff1c1232.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\6c4e4ea9-054b-4669-bfd6-805b89325a36.png",
+      "PackagePath": "staticwebassets\\images\\Products\\6c4e4ea9-054b-4669-bfd6-805b89325a36.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\6ec80d67-770a-4425-b5b9-f15d426c0afd.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\6ec80d67-770a-4425-b5b9-f15d426c0afd.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\91cb0718-eba8-4f6f-97a3-6c05e2d2c824.png",
+      "PackagePath": "staticwebassets\\images\\Products\\91cb0718-eba8-4f6f-97a3-6c05e2d2c824.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\b5a8fe55-1068-42fe-bd75-f126b14026f8.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\b5a8fe55-1068-42fe-bd75-f126b14026f8.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\b7e093ed-6b68-4b18-b522-20cf54c245a2.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\b7e093ed-6b68-4b18-b522-20cf54c245a2.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\be3f697f-3823-40c7-8aed-dae1515389f7.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\be3f697f-3823-40c7-8aed-dae1515389f7.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\bf29c015-824d-486a-8641-a2e0e0e338ac.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\bf29c015-824d-486a-8641-a2e0e0e338ac.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\ced84fc8-fa9d-4438-9ddd-f1e2b32fef5f.png",
+      "PackagePath": "staticwebassets\\images\\Products\\ced84fc8-fa9d-4438-9ddd-f1e2b32fef5f.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\e1a102ea-cad7-496b-ac32-bc0ee748303a.png",
+      "PackagePath": "staticwebassets\\images\\Products\\e1a102ea-cad7-496b-ac32-bc0ee748303a.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\e7637c88-b72f-41e3-9496-cbce099a7d2d.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\e7637c88-b72f-41e3-9496-cbce099a7d2d.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\Products\\f68c2579-57c5-4fcc-8e21-e2907114831a.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\f68c2579-57c5-4fcc-8e21-e2907114831a.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\images\\register.png",
+      "PackagePath": "staticwebassets\\images\\register.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avatar2.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avatar3.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\img\\avatar4.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\img\\avatar5.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\orders.js",
+      "PackagePath": "staticwebassets\\js\\orders.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\js\\users.js",
+      "PackagePath": "staticwebassets\\js\\users.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\license.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\license.md"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\shoppingcart\\core-style.css",
+      "PackagePath": "staticwebassets\\shoppingcart\\core-style.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\shoppingcart\\favicon.ico",
+      "PackagePath": "staticwebassets\\shoppingcart\\favicon.ico"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\shoppingcart\\style.css",
+      "PackagePath": "staticwebassets\\shoppingcart\\style.css"
+    },
+    {
+      "Id": "E:\\my studies\\E-commerce\\myEcommerce\\myEcommerceweb\\wwwroot\\summarycart\\style.css",
+      "PackagePath": "staticwebassets\\summarycart\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.myEcommerceweb.props",
+      "PackagePath": "build\\myEcommerceweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.myEcommerceweb.props",
+      "PackagePath": "buildMultiTargeting\\myEcommerceweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.myEcommerceweb.props",
+      "PackagePath": "buildTransitive\\myEcommerceweb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.myEcommerceweb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.myEcommerceweb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,53 @@
+﻿@*here ww will create table by different way in category table .
+    1- in this way we will get data from json file, to get data in Json file we should create js file to implement AJAX in this file  .
+            i will create js file in wwwroot js folder  
+    2- we will implement the JQuery DataTable from datatable website to implemnt advanced interaction controls
+    to your HTML tables the free & easy way
+    3- there are two file(Css,Js) we should implement it in the dashboard to create Data table 
+    
+
+    CSS ref :  //cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css
+    JS src :    //cdn.datatables.net/2.1.8/js/dataTables.min.js
+
+    also we must initialize it JS code .
+    let table = new DataTable('#myTable');
+    after all it  we get a fully interactive table. 
+
+*@
+
+@{
+    ViewBag.PageTitle = "Product Management";
+    ViewBag.CardTitle = "Products List";
+    // Layout = "~/Views/Shared/_Dashboard.cshtml";
+    //  after add these ( Layout = "_Dashboard";) in _ViewStart  , i will be not need to add these(Layout = "~/Views/Shared/_Dashboard.cshtml";) in all admin views
+
+}
+@*i will use the toaster in all Crud operations, so i will use it in more than one place so i will move it to shared.file _Dashboard
+    to re use it with all crud operations
+*@
+
+@*<partial name="_Toaster" />*@
+<div>
+    <a href="/Admin/Product/Create/" class="btn btn-primary">CreateProduct</a>
+</div>
+<br />
+<table class="table table-hover" width="100%" id="mytable">
+    <thead class="text-bold">
+        <tr>
+            <td>Name</td>
+            <td>Description</td>
+            <td>Price</td>
+            <td>Category</td>
+            <td>Actions</td>
+
+        </tr>
+    </thead>
+   
+</table>
+
+@*i will include the JS file that i create in WWWRoot to get JSON Data From it *@
+
+@section Scripts {
+    <script src="~/js/products.js"></script>
+
+}

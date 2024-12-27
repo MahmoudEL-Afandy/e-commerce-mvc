@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Category> 
+@{
+    ViewBag.PageTitle = "Category Management";
+    ViewBag.CardTitle = "Categories List";
+   // Layout = "~/Views/Shared/_Dashboard.cshtml";
+    //  after add these ( Layout = "_Dashboard";) in _ViewStart  , i will be not need to add these(Layout = "~/Views/Shared/_Dashboard.cshtml";) in all admin views
+
+}
+@*i will use the toaster in all Crud operations, so i will use it in more than one place so i will move it to shared.file _Dashboard 
+    to re use it with all crud operations 
+*@
+
+@*<partial name="_Toaster" />*@
+
+<div>
+<a href="/Admin/Category/Create/" class="btn btn-primary">CreateCategory</a>
+</div>
+<table class="table table-hover" width="100%">
+    <thead class="text-bold">
+        <tr>
+        <td>Name</td>
+        <td>Description</td>
+        <td>CreatedTime</td>
+        <td>Actions</td>
+    </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+           @*  after i create the description by tinyMCE save the text as html.syntax so when i display it will appear as html, and i will use the next way to make it as the text   *@
+            <td>@Html.Raw(item.Description)</td>
+            <td>@item.CreatedTime</td>
+            <td>
+                <a href="/Admin/Category/Edit/@item.Id" class="btn btn-success">Edit</a>
+                <a href="/Admin/Category/Delete/@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+
+        
+    };
+</table>
+

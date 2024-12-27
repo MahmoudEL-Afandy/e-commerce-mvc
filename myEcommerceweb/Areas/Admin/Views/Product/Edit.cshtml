@@ -1,0 +1,115 @@
+﻿@model ProductVM
+
+@{
+    ViewBag.PageTitle = "Product Management";
+    ViewBag.CardTitle = "Edit Product";
+   // Layout = "~/Views/Shared/_Dashboard.cshtml";
+   //  after add these ( Layout = "_Dashboard";) in _ViewStart  , i will be not need to add these(Layout = "~/Views/Shared/_Dashboard.cshtml";) in all admin views
+
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Product.Id" hidden />
+            <input asp-for="Product.Img" hidden /> @*i should add this to make the user if he doesn't need to change the image and need to make the img as the same *@
+            <div class="form-group">
+                <label asp-for="Product.Name" class="form-label"></label>
+                <input asp-for="Product.Name" class="form-control" />
+                <span asp-validation-for="Product.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Product.Description" class="form-label"></label>
+                <textarea asp-for="Product.Description" class="form-control" id="mytextarea"></textarea>
+
+                <span asp-validation-for="Product.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Product.Price" class="form-label"></label>
+                <input asp-for="Product.Price" class="form-control" />
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Product.Img" class="contorl-label"></label>
+                <input asp-for="Product.Img" type="file" name="file" id="imgfile" />
+                <span asp-validation-for="Product.Img" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="Product.CategoryId" class="contorl-label"></label>
+                <select asp-for="Product.CategoryId" asp-items="Model.CategoryList" class="form-control">
+                    <option selected disabled>--Select Category--</option>
+                </select>
+                <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+               @*  <input type="submit" value="Update" class="btn btn-warning" /> *@
+                <button class="btn btn-warning" type="submit">Edit</button>
+                <a asp-action="Index" asp-controller="Product" class="btn btn-primary">Back To Index</a>
+            </div>
+
+
+        </form>
+    </div>
+    <div class="col-md-4">
+        <div class="container">
+            <img src="~/@Model.Product.Img" alt="ProductImage" width="400px" height="400px" />
+        </div>
+    </div>
+</div>
+
+
+
+<!-- this to create the client side validation error -->
+@section Scripts {
+    
+       @*  this *@
+   @*  <partial name="_ValidationScriptsPartial"/> *@
+   
+    @*or this*@
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    @*  any textarea i want to use it with MCE i must add this in the html file that contains the textarea 
+         and this <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+        in this project i implement it in the _Dashboard to can use MCE with Any Textarea in the project 
+        by add the following statement only in the html  *@
+    @*  <script>
+        tinymce.init({
+          selector: '#mytextarea'
+        });
+    </script> *@ 
+    @*  i replace it to following after add no-api-key=vvznev3872zsnqt6hovhh6301q0v42h5ltqvxpe6thbc39qx in url *@
+    <!-- Place the first <script> tag in your HTML's <head> -->
+    @* <script src="https://cdn.tiny.cloud/1/vvznev3872zsnqt6hovhh6301q0v42h5ltqvxpe6thbc39qx/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+ *@
+    <!-- Place the following <script> and <textarea> tags your HTML's <body> -->
+    <script>
+        tinymce.init({
+          selector: '#mytextarea',
+          plugins: [
+            // Core editing features
+            'anchor', 'autolink', 'charmap', 'codesample', 'emoticons', 'image', 'link', 'lists', 'media', 'searchreplace', 'table', 'visualblocks', 'wordcount',
+            // Your account includes a free trial of TinyMCE premium features
+            // Try the most popular premium features until Jan 3, 2025:
+            'checklist', 'mediaembed', 'casechange', 'export', 'formatpainter', 'pageembed', 'a11ychecker', 'tinymcespellchecker', 'permanentpen', 'powerpaste', 'advtable', 'advcode', 'editimage', 'advtemplate', 'ai', 'mentions', 'tinycomments', 'tableofcontents', 'footnotes', 'mergetags', 'autocorrect', 'typography', 'inlinecss', 'markdown','importword', 'exportword', 'exportpdf'
+          ],
+          toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+          tinycomments_mode: 'embedded',
+          tinycomments_author: 'Author name',
+          mergetags_list: [
+            { value: 'First.Name', title: 'First Name' },
+            { value: 'Email', title: 'Email' },
+          ],
+          ai_request: (request, respondWith) => respondWith.string(() => Promise.reject('See docs to implement AI Assistant')),
+        });
+    </script>
+
+
+
+
+}
+

@@ -1,0 +1,12 @@
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\bin\Debug\net8.0\myEcommerceUtilities.deps.json
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\bin\Debug\net8.0\myEcommerceUtilities.dll
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\bin\Debug\net8.0\myEcommerceUtilities.pdb
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.AssemblyInfoInputs.cache
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.AssemblyInfo.cs
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.csproj.CoreCompileInputs.cache
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.dll
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\refint\myEcommerceUtilities.dll
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.pdb
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\ref\myEcommerceUtilities.dll
+E:\my studies\E-commerce\myEcommerce\myEcommerceStaticVariables\obj\Debug\net8.0\myEcommerceUtilities.csproj.AssemblyReference.cache

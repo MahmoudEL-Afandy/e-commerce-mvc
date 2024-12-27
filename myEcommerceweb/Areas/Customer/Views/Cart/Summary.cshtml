@@ -1,0 +1,152 @@
+﻿@model ShoppingCartVM
+@* i add both statement for stripe 
+the first statement i add it to can inject  IOptions<myEcommerceUtilities.StripeData> Stripe *@
+@using Microsoft.Extensions.Options
+@inject IOptions<myEcommerceUtilities.StripeData> Stripe 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Summary Cart</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<link rel="stylesheet" href="~/summarycart/style.css">
+</head>
+<body>
+    <main class="page">
+        <section class="shopping-cart dark">
+        
+            <div class="container wrapper">
+                <div class="row cart-head">
+                    <div class="container">
+                    <div class="row">
+                        <p></p>
+                    </div>
+                    <div class="row">
+                        <div style="display: table; margin: auto;">
+                            <span class="step step_complete"> <a href="/Customer/Cart/Index1" class="check-bc">Cart</a> <span class="step_line step_complete"> </span> <span class="step_line backline"> </span> </span>
+                            <span class="step step_complete"> <a href="/Customer/Cart/Summary" class="check-bc">Checkout</a> <span class="step_line "> </span> <span class="step_line step_complete"> </span> </span>
+                            <span class="step_thankyou check-bc step_complete">Thank you</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <p></p>
+                    </div>
+                </div>
+                </div>
+                <div class="row cart-body">
+                    
+                    <form class="form-horizontal" method="post" asp-action="Summary">
+                        @* action="Summary" *@
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 col-md-push-6 col-sm-push-6">
+                            <!--REVIEW ORDER-->
+                            <div class="panel panel-info">
+                                <div class="panel-heading">
+                                    Review Order <div class="pull-right"><small><a class="afix-1" href="/Customer/Cart/Index">Edit Cart</a></small></div>
+                                </div>
+                                <div class="panel-body">
+
+                                    @foreach (var item in Model.CartsList)
+                                    {
+
+
+                                        <div class="form-group">
+                                            <div class="col-sm-3 col-xs-3">
+                                                <img class="img-responsive" src="~/@item.Product.Img" width="100" height="70" />
+                                            </div>
+                                            <div class="col-sm-6 col-xs-6">
+                                                <div class="col-xs-12">@item.Product.Name</div>
+                                                <div class="col-xs-12"><small>Quantity:<span>@item.Count</span></small></div>
+                                            </div>
+                                            <div class="col-sm-3 col-xs-3 text-right">
+                                                <h6><span>$</span>@item.Product.Price</h6>@* this for if i want to display price of one item  *@
+
+                                            </div>
+                                        </div>
+                                        <div class="form-group"><hr /></div>
+
+
+
+
+
+                                    }
+                                    <div class="form-group"><hr /></div>
+                                    <div class="form-group">
+                                        <div class="col-xs-12">
+                                            <strong>Order Total: </strong>
+                                            <div class="pull-right"><span>$</span><span>@Model.OrderHeader.TotalPrice</span></div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <!--REVIEW ORDER END-->
+                        </div>
+                        
+                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 col-md-pull-6 col-sm-pull-6">
+                         <!--SHIPPING METHOD-->
+                            <div class="panel panel-info">
+                                <div class="panel-heading">Address</div>
+                                <div class="panel-body">
+                                <div class="form-group">
+                                    <div class="col-md-12">
+                                        <h4>Shipping Address</h4>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @* <div class="col-md-12"><strong>Name:</strong></div> *@
+                                    <div class="col-md-12">
+                                            <label asp-for="OrderHeader.Name"></label>
+                                            <input type="text" class="form-control" name="Name"  asp-for="OrderHeader.Name" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-md-6 col-xs-12">
+                                        @* <strong>Phone:</strong> *@
+
+                                         <label asp-for="OrderHeader.Phone"></label>
+                                         <input type="text" name="Phone" class="form-control" asp-for="OrderHeader.Phone" />
+                                    </div>
+                                    <div class="span1"></div>
+                                    <div class="col-md-6 col-xs-12">
+                                        @* <strong>City:</strong> *@
+                                            <label asp-for="OrderHeader.City"></label>
+                                            <input type="text" name="City" class="form-control"  asp-for="OrderHeader.City" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @* <div class="col-md-12"><strong>Address:</strong></div> *@
+                                    <div class="col-md-12">
+                                            <label asp-for="OrderHeader.Address"></label>
+                                            <input type="text" name="Address" class="form-control"  asp-for="OrderHeader.Address" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                        <div class="col-md-6 col-sm-6 col-xs-12">
+                                            
+                                            <input type="submit" value="Place Order" class="btn btn-primary btn-submit-fix"></input>
+                                        </div>
+                                    </div>
+
+                               
+                        </div>
+
+                       @*  <button type="submit" class="btn btn-primary btn-lg btn-block">Checkout</button> *@
+
+                    </form>
+                </div>
+                <div class="row cart-footer"></div>
+            </div>
+        </section>
+    </main>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+
+	@* <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script> *@
+</body>
+</html>
