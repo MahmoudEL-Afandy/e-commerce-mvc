@@ -25,10 +25,14 @@ My Big Project , This project is an E-commerce application for online shopping, 
 - **N-Tier Architecture**: Implemented an N-tier architecture to separate concerns and enhance maintainability.
 
 - **Repository pattern**:  Employed repository pattern for database access to promote code reusability and separation of concerns.
-- 
+ 
 - **Unit of work**: to maintain data consistency and integrity by treating multiple database operations as a single transaction . 
 
+- **Identity Framework Integration**: Integrated ASP.NET Core Identity for authentication and authorization, including custom user fields.
+
 - **Authentication and Authorization**: Implemented robust authentication and authorization mechanisms.
+
+- **Role Management**: Managed user roles within the application using ASP.NET Core Identity.
 
 - **Stripe payment integration**:  Integrated Stripe for handling payments.
 
@@ -39,7 +43,9 @@ My Big Project , This project is an E-commerce application for online shopping, 
 - **Admin dashboard**
 
 - **CRUD operations**: Implement CRUD operations .
-- 
+
+- **Entity Framework Core**: Implemented Entity Framework Core with code-first migrations for database management.
+    
 - **Database Seeding**: Automated database seeding with initial data during migrations.
 
 
