@@ -17,7 +17,7 @@ This project is an E-commerce application for online shopping.
 
 ## About 
 
-My Big Project , This project is an E-commerce application for online shopping, built using .NET 8 Core MVC. The application leverages various modern technologies and frameworks to provide a comprehensive and scalable solution for online Shopping.
+My Big Project , This project is an E-commerce application for online shopping, built using .NET 8 MVC. The application leverages various modern technologies and frameworks to provide a comprehensive and scalable solution for online Shopping.
 
 ## Features 
 
@@ -51,7 +51,7 @@ My Big Project , This project is an E-commerce application for online shopping, 
 
 ## Technologies Used 
 
-- ASP.Net MVC.
+- .Net8 MVC.
 - C#, T-SQL, and JS.
 - CSS, HTML, and Bootstrap. 
 - Entity Framework core
