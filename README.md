@@ -73,11 +73,7 @@ My Big Project , This project is an E-commerce application for online shopping, 
 
 If you have any questions or suggestions, feel free to contact us: 
 
-- Email: [mahmoudeldrenyelafandy2000@gmail.com](mailto:mahmoudeldrenyelafandy2000@gmail.com) 
-
-Follow us on social media: 
-
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-el-halim-sw) 
+- Email: [Gmail](mailto:mahmoudeldrenyelafandy2000@gmail.com) 
 
  
 
